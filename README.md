@@ -1,6 +1,6 @@
 # Ben-10-MINEDITION
 
-This modpack, created by Lyric (FauterLOV) and TesTI (Y_U_S_M_A_N), 
+This modpack, created by Liric (FauterLOV) and TesTI (Y_U_S_M_A_N), 
 
 ![alt text](https://github.com/Yusman00/Ben-10-MINEDITION/blob/main/IMG_20251017_185618_578.jpg)
 
